@@ -10,7 +10,7 @@ Diseño y construyo plataformas escalables. Mi enfoque principal está en la arq
 
 ***
 
-## Proyecto Principal
+## Último Proyecto
 
 ### Arelify - Plataforma B2B Multi-tenant
 [arelify.com](https://arelify.com)
