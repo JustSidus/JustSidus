@@ -74,7 +74,7 @@ Lideré el desarrollo técnico de esta plataforma SaaS privada de gestión de ci
         Portafolio técnico personal y presentación de proyectos para trabajos de ingeniería.
       </p>
       <p>
-        <strong>Foco:</strong> React, Tailwind CSS, Vite, Cloudflare Pages, automatización CI/CD.
+        <strong>Foco:</strong> React, Tailwind CSS, Vite, GitHub Pages, automatización CI/CD.
       </p>
       <a href="https://github.com/JustSidus/bryanvarela.dev">
         Ver repositorio
